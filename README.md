@@ -1,0 +1,1 @@
+# PhoneModel: This code will allow the user to enter in a phone model as well as the base price and warranty, after it will calculate the tax, fees, and monthly payment based on the information inputed. There are some set variables such as the disposal fee, and how many months.
